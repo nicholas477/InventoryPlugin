@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "Inventory System",
+	"Description": "Basic Networked Inventory System",
+	"Category": "Other",
+	"CreatedBy": "Nicholas Chalkley",
+	"CreatedByURL": "https://github.com/nchalkley2",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Inventory",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
